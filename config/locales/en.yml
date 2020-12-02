@@ -31,9 +31,3 @@
 
 en:
   hello: "Hello world"
-
-environments:
-  production:
-    copy_exclude:
-      - .git
-    branch: try-engine-yard
